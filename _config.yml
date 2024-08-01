@@ -25,6 +25,7 @@ colors:
 # Main menu navigation
 menu:
   Home:
+<<<<<<< HEAD
     name: 首页
     theme: solid
     link: /
@@ -42,6 +43,25 @@ menu:
     link: /categories
   Tags:
     name: 标签(未开放)
+=======
+    name: home
+    theme: solid
+    link: /
+  About:
+    name: about
+    theme: solid
+    link: /about
+  Archives:
+    name: archives
+    theme: solid
+    link: /archives
+  Categories:
+    name: categories
+    theme: solid
+    link: /categories
+  Tags:
+    name: tags
+>>>>>>> a548bd1d6937a1dee9a6d0e82687898999cb831f
     theme: solid
     link: /tags
 
@@ -67,7 +87,11 @@ card:
       name: envelope
       theme: solid
       link: mailto:jiuyingshi914@gmail.com
+<<<<<<< HEAD
   Swing Music:<iframe style="border-radius:12px" src="http://localhost:1970/#/playlist/1" width="100%" height="720" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+=======
+  friendLinks:
+>>>>>>> a548bd1d6937a1dee9a6d0e82687898999cb831f
 
 # Footer info
 footer:
